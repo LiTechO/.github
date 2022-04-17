@@ -1,8 +1,10 @@
-## LiTechO
+# LiTechO
 
-We are a team that makes many random stuff, ranging from Discord bots and ending up with api clients.
+We are a team that makes many random stuff, ranging from Discord 🤖 and ending up with api clients.
 
-If you have any ideas, or maybe want to become a part of our team, feel free to contact us at Discord:
+## Contact
+
+If you have any 💡, or maybe want to become a part of our 👥, feel free to 📞 us at Discord:
 
 - LimeGeeg#0307 ([@LimeGeeg](https://github.com/LimeGeeg)) | The team's magnanimous dictator
 - Choky#2614 or nakamita#9597 ([@weerdy15](https://github.com/weerdy15)) | Team's engeneer
@@ -11,4 +13,12 @@ If you have any ideas, or maybe want to become a part of our team, feel free to 
 
 The main place where we are communicating is [this](https://discord.gg/Fhn7rCVmCp) Discord server
 
-Fun fact: LimeGeeg is a fruit in real life
+## Some fun facts
+
+Fun fact: LimeGeeg is a 🍈 in real life
+
+## Tools we're using
+
+[![Python](https://shields.io/badge/Python-3.10-%231793D1?style=for-the-badge&logo=python&logoColor=blue)](https://python.org/)
+[![Sublime Text](https://shields.io/badge/Sublime%20Text-Latest-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=FF9800)](https://sublimetext.com/)
+[![Discord](https://shields.io/badge/Discord-Canary-black?style=for-the-badge&logo=discord&labelColor=black&color=orange)](https://discordapp.com)
