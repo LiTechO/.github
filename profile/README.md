@@ -19,6 +19,6 @@ Fun fact: LimeGeeg is a 🍈 in real life
 
 ## Tools we're using
 
-[![Python](https://shields.io/badge/Python-3.10-%231793D1?style=for-the-badge&logo=python&logoColor=blue)](https://python.org/)
+[![Python](https://shields.io/badge/Python-3.10-%231793D1?style=for-the-badge&logo=python&logoColor=blue&labelColor=black)](https://python.org/)
 [![Sublime Text](https://shields.io/badge/Sublime%20Text-Latest-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=FF9800)](https://sublimetext.com/)
 [![Discord](https://shields.io/badge/Discord-Canary-black?style=for-the-badge&logo=discord&labelColor=black&color=orange)](https://discordapp.com)
