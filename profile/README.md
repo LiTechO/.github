@@ -9,7 +9,7 @@ If you have any 💡, or maybe want to become a part of our 👥, feel free to �
 - LimeGeeg#0307 ([@LimeGeeg](https://github.com/LimeGeeg)) | The team's founder, coordinator and magnanimous dictator
 - Choky#2614 or nakamita#9597 ([@weerdy15](https://github.com/weerdy15)) | Team's engeneer
 - CatC0dd3r#4265 ([@CatStark25](https://github.com/CatStark25)) | No one know who is him. He just a part of our team. That's all we know
-- Debug_pro#5355 (No GitHub) | Rare guest. He is just like a helper
+- Debug_pro#5355 (Unknown GitHub) | Rare guest. Sometimes he does nothing, sometimes he helps very much, sometimes he does something that we're cannot understand. Strange man
 
 The main place where we are communicating is [this](https://discord.gg/Fhn7rCVmCp) Discord server
 
