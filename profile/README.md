@@ -1,6 +1,6 @@
 # LiTechO
 
-We are a team that makes many random stuff, ranging from Discord 🤖 and ending up with api clients.
+We are a team that makes many random stuff, ranging from Discord 🤖 and ending up with (maybe) cool 🎮.
 
 ## Contact
 
